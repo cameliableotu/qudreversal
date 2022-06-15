@@ -66,7 +66,7 @@ var items = [
         as: [['s','Yes'],['k','No']]}], 
 ['shared-intro', Message, {consentRequired: false,
                    html: ["div",
-                           ["p", "How did you find it? You simply have to say whether you would conclude from a certain statement that another statement hancients."],           
+                           ["p", "How did you find it? You simply have to say whether you would conclude from a certain statement that another statement holds."],           
                            ["p", "Let's practice more."],
                            ]}],
                    
