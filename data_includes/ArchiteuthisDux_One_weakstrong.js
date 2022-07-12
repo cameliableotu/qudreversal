@@ -276,8 +276,6 @@ var items = [
                          "Question", {q:"<p>Chloe: <i>Are some songs ridiculous?</i></p><p>Lisa: <i>Some songs are silly.</i></p><p>Would you conclude from this that, according to Lisa, some but not all songs are silly but not ridiculous?</p>",as: [['s','Yes'],['k','No']]},
                          "Question", {q:"<p>Chloe: <i>Are some songs ridiculous?</i></p><p>Lisa: <i>Some songs are silly.</i></p><p>Would you conclude from this that, according to Lisa, no song which is silly is ridiculous?</p>",as: [['s','Yes'],['k','No']]}],
 
-
-
 [["IMPLICATURES-a1",35], "Question", {q:"<p>Dennis: <i>Are some directors always late?</i></p><p>Martha: <i> It sometimes happens that some directors are late.</i></p><p>Would you conclude from this that, according to Martha, some directors are sometimes but not always late?</p>",as: [['s','Yes'],['k','No']]},
                          "Question", {q:"<p>Dennis: <i>Are some directors always late?</i></p><p>Martha: <i>Some directors are sometimes late.</i></p><p>Would you conclude from this that, according to Martha, some but not all directors are sometimes late?</p>",as: [['s','Yes'],['k','No']]},
                          "Question", {q:"<p>Dennis: <i>Are some directors always late?</i></p><p>Martha: <i>Some directors are sometimes late.</i></p><p>Would you conclude from this that, according to Martha, some but not all directors are sometimes but not always late?</p>",as: [['s','Yes'],['k','No']]},
